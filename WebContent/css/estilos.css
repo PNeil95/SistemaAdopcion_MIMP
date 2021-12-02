@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(../img/fondo.png) center center no-repeat;
+    background-size: 100% 100%;
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
